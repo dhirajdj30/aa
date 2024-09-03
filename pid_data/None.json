@@ -1,0 +1,32 @@
+{
+    "pid": null,
+    "itemId": null,
+    "listingId": null,
+    "brand": null,
+    "title": null,
+    "subTitle": null,
+    "url": null,
+    "mrp": null,
+    "price": null,
+    "specialPrice": null,
+    "rating": {
+        "overall": {
+            "average": 0,
+            "count": 0,
+            "reviewCount": 0,
+            "breakup": 0
+        },
+        "aspects": {}
+    },
+    "variants": [],
+    "highlights": [],
+    "description": {},
+    "images": {},
+    "qna": {},
+    "reviews": [],
+    "features": [],
+    "specifications": [],
+    "offers": [],
+    "manufacturingPackagingImport": {},
+    "productBreadcrumbs": {}
+}
